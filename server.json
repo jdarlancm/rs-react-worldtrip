@@ -1,0 +1,110 @@
+{
+  "continents": [
+      {
+          "id": 1,
+          "name": "Europe", 
+          "description": "O continente mais antigo.",
+          "image": "europe.png",
+          "fullDescription": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "qtdLanguages": "60",
+          "qtdCountries": "50",
+          "topCities": [
+            {
+                "name": "Londres",
+                "Country": "Reino Unido",
+                "countryFlag": "https://flexiroam.com.br/wp-content/uploads/2020/10/uk-flag-1-650x357-1.jpg",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Paris",
+                "Country": "França",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+                "cityImage": "https://cdn.getyourguide.com/img/location/5ffeb392eb81e.jpeg/68.jpg"
+            },
+            {
+                "name": "Roma",
+                "Country": "Itália",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png",
+                "cityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthEAGyP5KCBYVaXPdD0ubXnq2R8Q3RWQAlMZ1_6bNUpL-EEff-WUSsNnX_8lN58GIeMo&usqp=CAU"
+            },
+            {
+                "name": "Praga",
+                "Country": "República Checa",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Amsterdã",
+                "Country": "Holanda",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Africa", 
+          "description": "Um lugar de belezas selvagens.",
+          "image": "africa.jpg"
+      },
+      {
+          "id": 3,
+          "name": "Asia", 
+          "description": "Descubra seus encantos.",
+          "image": "asia.jpg"
+      },
+      {
+          "id": 4,
+          "name": "Oceania", 
+          "description": "Dos recantos mais lindos da Terra.",
+          "image": "oceania.jpg"
+      },
+      {
+          "id": 5,
+          "name": "América do Norte", 
+          "description": "O continente mais antigo.",
+          "image": "north-america.jpg",
+          "fullDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+          "qtdLanguages": "30",
+          "qtdCountries": "10",
+          "topCities": [
+            {
+                "name": "São Paulo",
+                "Country": "Brasil",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Montivideu",
+                "Country": "Uruguai",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Buenos Aires",
+                "Country": "Argentina",
+                "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Praga",
+                "Country": "República Checa",
+                "countryFlag": "/",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            },
+            {
+                "name": "Amsterdã",
+                "Country": "Holanda",
+                "countryFlag": "/",
+                "cityImage": "https://media.istockphoto.com/photos/houses-of-parliament-with-big-ben-and-doubledecker-bus-on-westminster-picture-id1199886073?k=20&m=1199886073&s=612x612&w=0&h=iSbP3GLJZ_JrR8qUGPiT6GkVmlLV4P0x_I4bAWE3O0c="
+            }
+          ]
+      },
+      {
+          "id": 6,
+          "name": "América do Sul", 
+          "description": "Você não irá encontrar lugar melhor.",
+          "image": "south-america.jpg"
+      }
+  ]
+}

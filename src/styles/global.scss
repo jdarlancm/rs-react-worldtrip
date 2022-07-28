@@ -1,0 +1,28 @@
+:root {
+    --swiper-theme-color: #FFBA08;
+}
+
+.mySwiper {
+    height: 100%;
+    width: 100%;
+
+    .mySwiperSlide {
+        text-align: center;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+.swiper-button-next, 
+.swiper-button-prev {
+    color:#FFBA08 !important;
+}
+
+.swiper-pagination-bullet {
+    background: #DADADA !important;
+}
+
+.swiper-pagination-bullet-active {
+    background:#FFBA08 !important;
+}
+
